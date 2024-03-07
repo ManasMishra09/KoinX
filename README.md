@@ -1,5 +1,7 @@
 # KoinX
 ![image](https://github.com/ManasMishra09/KoinX/assets/92935580/491e6fff-8028-4d11-8cc5-f79fde651a0d)
+![image](https://github.com/ManasMishra09/KoinX/assets/92935580/b47f5a89-6597-4f77-b56f-01a503d59527)
+
 ## Mandatory Tasks:
 
 - Implement all the components as given in the Figma design.
